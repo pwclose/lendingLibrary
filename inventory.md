@@ -64,6 +64,8 @@ Berger, John. *Ways of Seeing.* British Broadcasting Corporation and Penguin Boo
 
 Berlant, Lauren. *Cruel Optimism.* Duke University Press, 2011.
 
+Blair, Ann. *Too Much to Know : Managing Scholarly Information before the Modern Age*. Yale University Press, 2010. 
+
 Bogost, Ian. *Alien Phenomenology, or What It's Like to be a Thing.* University of Minnesota University Press, 2012.
 
 Bogost, Ian. *Persuasive Games.* Massachusetts Institute of Technology, 2007.
@@ -110,6 +112,8 @@ Cohen, Daniel, and Roy Rosenzweig. *Digital History: A Guide to Gathering, Prese
 
 Coleman, Gabriella. *Coding Freedom: The Ethics and Aesthetics of Hacking.* Princeton University Press, 2013. 
 
+Coover, Roderick, and Thomas Bartscherer, eds. *Switching Codes: Thinking Through Digital Technology in the Humanities and the Arts*. University of Chicago Press, 2011. 
+
 Cox, Christoph and Daniel Warner. *Audio Culture.* Continuum, 2004.
 
 Crary, Jonathan. *24/7: Late Capitalism and the Ends of Sleep.* Verso, 2013. 
@@ -122,7 +126,10 @@ Daniel, Sharon, and Erik Loyer. "Public Secrets." *Vectors* 2.2 (Winter 2007): n
 
 Darnton, Robert. *The Case for Books: The Past, Present, and Future.* Public Affairs, 2009.
 
-De Lauretis, Teresa. *Technologies of Gender.* Indiana University Press, 1987.  
+Day, Ronald E. *Indexing It All : The Subject in the Age of Documentation, Information, and Data*. MIT Press, 2014.
+
+De Lauretis, Teresa. *Technologies of Gender.* Indiana University Press, 1987. 
+
 Deleuze, Gilles. *Cinema 1: The Movement-Image.* MIT Press, 1986
 
 Derrida, Jaques. *A Derrida Reader: Between the Blinds.* Ed. Kamuf Peggy. Columbia University Press, 1991.
@@ -141,7 +148,9 @@ Drucker, Johanna. *The Century of Artists' Books.* Granary Books, 1994.
 
 Drucker, Johanna. "Humanities Approaches to Graphical Display." *Digital Humanities Quarterly* 5.1 (Winter 2011): n. pag. 
 
-Dunne, Anthony and Fiona Raby. *Speculative Everything: Design, Fiction, and Social Dreaming.* MIT Press, 2013.  
+Dunne, Anthony and Fiona Raby. *Speculative Everything: Design, Fiction, and Social Dreaming.* MIT Press, 2013. 
+
+Dworkin, Craig. *No Medium*. MIT Press, 2013.
 
 Dyer-Witheford, Nick. *Cyber-Marx.* University of Illinois, 1999. 
 
@@ -181,6 +190,8 @@ Friedrichs, H. Peter. *The Voice of the Crystal.* Self-published, 1999.
 Fuller, Matthew. *Media Ecologies: Materialist Energies in Art and Technoculture.* MIT Press, 2005. 
 
 Fuller, Matthew, ed. *Software Studies: A Lexicon.* MIT Press, 2008.
+
+Funkhouser, C.T. *Prehistoric Digital Poetry*. University of Alabama Press, 2007.
 
 Galey, Alan, and Stan Ruecker "How a Prototype Argues." *Literary and Linguistic Computing* 25.4 (2010): 405-424. 
 
@@ -236,7 +247,7 @@ Haring, Kristen. *Ham Radios Technical Culture.* MIT Press, 2007.
 
 Harvey, Penny, Eleanor Conlin Casells, et al. *Objects and Materials.* Routledge Publishers, 2014. 
 
-Hayles, N. Katherine. *Electronic Lit.* University of Notre Dame Press, 2008.
+Hayles, N. Katherine. *Electronic Literature.* University of Notre Dame Press, 2008.
 
 Hayles, N. Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics.* University of Chicago Press, 1999.
 
@@ -280,6 +291,8 @@ Kelty, Christopher M. *Two Bits: The Cultural Significance of Free Software.* Du
 
 Kern, Stephen. *The Culture of Time & Space: 1880-1918.* Harvard University Pres, 1983. 
 
+Kirkham, Pat, and Susan Weber, eds. *History of Design: Decorative Arts and Material Culture, 1400-2000.* Yale University Press, 2013.
+
 Kilgour, Frederick. *The Evolution of the Book.* Oxford University Press, 1998.
 
 Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination.* MIT Press, 2008.  
@@ -312,6 +325,8 @@ Lehmann, Steffen and Robert Crocker, eds. *Designing for Zero Waste: Consumption
 
 Lessig, Lawrence. *Code and Other Laws of Cyberspace.* Basic Books, 2000.  
 
+Lima, Manuel. *Book of Trees: Visualizing Branches of Knowledge*. Princeton Architectural, 2014.
+
 Liu, Alan. *The Laws of Cool: Knowledge Work and the Culture of Information.* The University of Chicago Press, 2004. 
 
 Losh, Elizabeth. *Virtualpolitik.* The MIT Press, 2009. 
@@ -340,7 +355,9 @@ Mangurian, Robert and Mary Ann Ray. *Wrapper: 40 Possible City Surfaces for the 
 
 Massumi, Brian. *Parables for the Virtual: Movement, Affect, Sensation.* Duke University Press, 2002. 
 
-McCloud, Scott. *Understanding Comics: The Invisible Art.* HarperCollins, 1993
+McCloud, Scott. *Understanding Comics: The Invisible Art.* HarperCollins, 1993.
+
+McGann, Jerome. *Radiant Textuality*. Palgrave, 2001.
 
 McLuhan, Marshall and Quentin Fiore. *The Medium is the Massage: An Inventory of Effects.* Ginko Press, 2001. 
 
